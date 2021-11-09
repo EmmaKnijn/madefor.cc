@@ -28,6 +28,7 @@ domains: Dict[str, Domain] = {
     "craftos-pc": { "cname": "admiring-shannon-be238c.netlify.app" },
     "gemstone": { "cname": "gemstone.znepb.me" },
     "impulses-cc-programs": { "cname": "emeraldimpulse7.github.io" },
+    "knijn": { "cname": "knijn.github.io"},
     "metis": { "cname": "squiddev-cc.github.io" },
     "phileos" : {"cname": "ryan-te.github.io"},
     "plethora": { "cname": "squiddev-cc.github.io" },
@@ -35,5 +36,5 @@ domains: Dict[str, Domain] = {
     "skydocs": { "cname": "skythecodemaster.github.io" },
     "thox": { "cname": "thox.touhey.pro" },
     "www": { "cname": "madefor.cc" },
-    "brag": { "cname": "bragosmagos.github.io" }, 
+    "brag": { "cname": "bragosmagos.github.io" },
 }
